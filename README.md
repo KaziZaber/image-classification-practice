@@ -1,2 +1,9 @@
-# image-classification-practice
-Image classification projects using PyTorch
+# Image Classification Practice
+
+Image classification projects built with PyTorch.
+
+## Projects
+- CIFAR-10 simple CNN classifier — in progress
+
+## Tech Stack
+Python | PyTorch | Matplotlib

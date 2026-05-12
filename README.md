@@ -3,9 +3,10 @@
 Image classification projects built with PyTorch.
 
 ## Projects
-- CIFAR-10 simple CNN classifier — in progress
+- CIFAR-10 simple CNN classifier — complete
 - Simple CNN trained on 60,000 images across 10 classes
-- CNN architecture complete, model training underway on 60,000 CIFAR-10 images
+- SimpleCNN architecture — 2 conv blocks, dropout regularization
+- Achieved 74.3% test accuracy on 10,000 unseen images
 
 ## Tech Stack
-Python | PyTorch | Matplotlib
+Python | PyTorch | Matplotlib | NumPy
